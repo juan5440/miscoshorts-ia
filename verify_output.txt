@@ -1,0 +1,11 @@
+FFmpeg path: C:\Users\Juan Gabriel Soto\Desktop\miscoshorts-ai\.venv\Lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe
+Directory added to PATH: C:\Users\Juan Gabriel Soto\Desktop\miscoshorts-ai\.venv\Lib\site-packages\imageio_ffmpeg\binaries
+Listing files in ffmpeg directory:
+ - ffmpeg-win-x86_64-v7.1.exe
+ - README.md
+ - __init__.py
+ - __pycache__
+Trying to execute directly: C:\Users\Juan Gabriel Soto\Desktop\miscoshorts-ai\.venv\Lib\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe -version
+Direct execution SUCCESS
+Trying execution from PATH...
+FAILURE: ffmpeg not found in PATH (or executable name differs).
