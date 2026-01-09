@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
 # miscoshorts-ia
 =======
+<img width="764" height="852" alt="Captura de pantalla 2026-01-08 211012" src="https://github.com/user-attachments/assets/1c1cae99-d48f-4593-84fe-83dd666597c3" />
+
 # Miscoshorts - AI-Powered YouTube Shorts Generator
 
 Automatically creates viral YouTube Shorts from long-form videos using AI analysis and automatic subtitle generation.
@@ -170,3 +172,4 @@ MIT License - feel free to use and modify for your projects.
 3. **Keep segments 30-60 seconds** - Ideal for Shorts attention spans
 4. **Ensure good lighting and clear visuals** - Important for vertical format
 5. **Test different subtitle styles** - Adjust colors and fonts for your brand
+
