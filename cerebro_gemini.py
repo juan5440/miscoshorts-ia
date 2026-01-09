@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import os
 
-GEMINI_API_KEY = "AIzaSyA2iO6RWP7akmoLEwAJjDr0NsZyW_5vIC4" # Configura la API key de Gemini
+GEMINI_API_KEY = "GEMINI_API_KEY" # Configura la API key de Gemini
 genai.configure(api_key=GEMINI_API_KEY)
 
 def encontrar_clip_viral(segmentos_whisper):
@@ -31,4 +31,5 @@ def encontrar_clip_viral(segmentos_whisper):
     """
 
     response = model.generate_content(prompt)
+
     return response.text
